@@ -6,4 +6,4 @@ const server = createServer((req,res) => {
     res.statusCode(404);
 })    
 server.listen("3000");
-console.log("server running");
+console.log("server running")
